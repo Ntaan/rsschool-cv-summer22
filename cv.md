@@ -1,3 +1,5 @@
+![Мое фото](/edenrozec.png)
+
 # Artamonova Elona
 A web developer with the ability and desire to learn and collaborate to solve custom web development tasks.
 
