@@ -133,7 +133,7 @@ main {
     top: 10px;
     width: 27px;
     height: 20px;
-    background-image: url("../icon/mail.svg");
+    background-image: url("icon/mail.svg");
     background-repeat: no-repeat;
     background-position: 0 0;
 }
@@ -145,7 +145,7 @@ main {
     top: 43px;
     width: 30px;
     height: 30px;
-    background-image: url("../icon/github.svg");
+    background-image: url("icon/github.svg");
     background-repeat: no-repeat;
     background-position: 0 0;
 }
@@ -166,7 +166,7 @@ main {
     top: 81px;
     width: 25px;
     height: 34px;
-    background-image: url("../icon/map.svg");
+    background-image: url("icon/map.svg");
     background-repeat: no-repeat;
     background-position: 0 0;
 }
